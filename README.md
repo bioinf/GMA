@@ -29,5 +29,5 @@ chmod +x bin/* wrapper.sh recordmem.sh
 
 ### Results
 
-`results_m.d.Y_H.M.S/mapred.txt` — Mappability track. 
+`results_m.d.Y_H.M.S/mapred.txt` — Mappability track.  
 `results_m.d.Y_H.M.S/memory_used.log` — Every second dump of the amount of all memory allocated for a given user (during script execution)
